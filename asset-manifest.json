@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8b8d359.css",
+    "main.js": "/static/js/main.dfddd098.js",
+    "static/media/teal-black.mp4": "/static/media/teal-black.72bea8a821803ae8a3f8.mp4",
+    "static/media/texture1.jpg": "/static/media/texture1.4e1fc4dd075063e23842.jpg",
+    "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.2146c3c82b553977abc7.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=7.4.47": "/static/media/materialdesignicons-webfont.1fcc36272ea3e53d0031.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=7.4.47": "/static/media/materialdesignicons-webfont.e55a20c80650829ec5fd.woff",
+    "static/media/troublemaker.jpg": "/static/media/troublemaker.8548f21acc186957db9c.jpg",
+    "static/media/selfie-mirror-small.jpg": "/static/media/selfie-mirror-small.4099b1f5932a4e89d923.jpg",
+    "static/media/MouseMirage-img1.png": "/static/media/MouseMirage-img1.8f6365ea3ccd472a3432.png",
+    "static/media/materialdesignicons-webfont.woff2?v=7.4.47": "/static/media/materialdesignicons-webfont.ec024da790d2972da002.woff2",
+    "static/media/hands.png": "/static/media/hands.abcd528593c62ba41482.png",
+    "static/media/MouseMirage-img2.png": "/static/media/MouseMirage-img2.e7d33b563e6904074d4d.png",
+    "static/media/tetrisbooking.png": "/static/media/tetrisbooking.e14cc58ed9be1d3ebeb0.png",
+    "static/media/arrow-left.gif": "/static/media/arrow-left.f2f8d069f958f362588f.gif",
+    "static/media/poppins-latin-400-normal.woff": "/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-700-normal.woff": "/static/media/poppins-latin-700-normal.cd04c2ad00870c9ceebf.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-700-normal.woff2": "/static/media/poppins-latin-700-normal.d86662fe776dae29ea78.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/poppins-latin-ext-700-normal.woff": "/static/media/poppins-latin-ext-700-normal.9790dff87ceb971bd482.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "static/media/poppins-latin-ext-700-normal.woff2": "/static/media/poppins-latin-ext-700-normal.b5109c3e385395dfd649.woff2",
+    "index.html": "/index.html",
+    "main.d8b8d359.css.map": "/static/css/main.d8b8d359.css.map",
+    "main.dfddd098.js.map": "/static/js/main.dfddd098.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8b8d359.css",
+    "static/js/main.dfddd098.js"
+  ]
+}
