@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8b8d359.css",
-    "main.js": "/static/js/main.dfddd098.js",
+    "main.css": "/static/css/main.423ae1f2.css",
+    "main.js": "/static/js/main.468c0e13.js",
     "static/media/teal-black.mp4": "/static/media/teal-black.72bea8a821803ae8a3f8.mp4",
     "static/media/texture1.jpg": "/static/media/texture1.4e1fc4dd075063e23842.jpg",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.2146c3c82b553977abc7.eot",
@@ -24,11 +24,11 @@
     "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
     "static/media/poppins-latin-ext-700-normal.woff2": "/static/media/poppins-latin-ext-700-normal.b5109c3e385395dfd649.woff2",
     "index.html": "/index.html",
-    "main.d8b8d359.css.map": "/static/css/main.d8b8d359.css.map",
-    "main.dfddd098.js.map": "/static/js/main.dfddd098.js.map"
+    "main.423ae1f2.css.map": "/static/css/main.423ae1f2.css.map",
+    "main.468c0e13.js.map": "/static/js/main.468c0e13.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8b8d359.css",
-    "static/js/main.dfddd098.js"
+    "static/css/main.423ae1f2.css",
+    "static/js/main.468c0e13.js"
   ]
 }
