@@ -1,1 +1,1 @@
-[view here](https://jaredtweed.com)
+View here: [https://jaredtweed.com](https://jaredtweed.com)
